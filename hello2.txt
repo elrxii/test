@@ -2,3 +2,5 @@ hi, this is hello2. I'm thinking about you right now.
 What do you think about this?  I'm on master.
 I am trying out the new git mergetool.
 Line four:  trying a rebase now.
+
+Adding stuff

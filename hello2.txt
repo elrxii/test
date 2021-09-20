@@ -1,1 +1,3 @@
-hi, this is hello2. I'm thinking about you right now.
+hi, this is hello2.
+
+I am trying out the new git mergetool.
